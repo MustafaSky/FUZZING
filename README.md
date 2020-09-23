@@ -12,6 +12,8 @@ https://github.com/TheKingOfDuck/fuzzDicts
 https://github.com/askDing/burpsuite_payloads
 https://github.com/danielmiessler/SecLists
 https://github.com/schopath/Art-of-DoS
+https://github.com/yehgdotnet/data-payloads/
+
 
 + Every one tweeted an awsome payload
 ```
