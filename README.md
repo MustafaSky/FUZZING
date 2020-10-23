@@ -1,5 +1,5 @@
 
-Collected fuzzing lists from different resources + Custom lists , soreted - filtered as much as possible.
+Collected fuzzing lists for vuleranilities discovery from different resources + custom lists ,sorted and filtered as much as possible. 
 
 
 ### Credits
